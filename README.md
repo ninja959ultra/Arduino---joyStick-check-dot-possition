@@ -30,9 +30,9 @@ This project is a fun way to learn about random number generation, joystick inpu
 
 
 # Pictures:
-!(img1)[Arduino_project_joyStick_find_correct_position_PART1.jpeg]
-!(img2)[Arduino_project_joyStick_find_correct_position_PART2.jpeg]
-!(img3)[Arduino_project_joyStick_find_correct_position_PART3.jpeg]
+![img1](Arduino_project_joyStick_find_correct_position_PART1.jpeg)
+![img2](Arduino_project_joyStick_find_correct_position_PART2.jpeg)
+![img3](Arduino_project_joyStick_find_correct_position_PART3.jpeg)
 
 # Code Below:
 ```cpp
